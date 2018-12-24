@@ -7,6 +7,9 @@
 #include <stdio.h>
 #include <string.h>
 #include<cmath>
+#include<windows.h>
+#include"mmsystem.h"
+
 #include<loop.h>
 #include<LTexture.h>
 #include<LButton.h>
@@ -592,6 +595,7 @@ class BATTLE_SCENE
         }
         /***Battle***/
         void battle(SDL_Event &e,bool &quit){
+
             static whose_turn turn=MY;
             static which_step step=SELECT_UNIT;
             static bool prev_click_flag=0;

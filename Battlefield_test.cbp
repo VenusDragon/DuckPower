@@ -17,6 +17,7 @@
 					<Add directory="include" />
 				</Compiler>
 				<Linker>
+					<Add option="-lwinmm" />
 					<Add directory="C:/SDL2-2.0.9/i686-w64-mingw32/lib" />
 				</Linker>
 			</Target>

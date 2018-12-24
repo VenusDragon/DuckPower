@@ -348,3 +348,93 @@
 1545575702 source:c:\users\user\desktop\new_map\battlefield - bigger\code\src\men_with_arms.cpp
 	"men_with_arms.h"
 
+1545641221 source:c:\users\user\desktop\gitupload\duckpower\main.cpp
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<ostream>
+	<string>
+	<cmath>
+	<loop.h>
+	<LTexture.h>
+	<LButton.h>
+	<men_with_arms.h>
+	<base.h>
+	<BATTLE_SCENE.h>
+
+1545552596 c:\users\user\desktop\gitupload\duckpower\include\loop.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<LButton.h>
+	<LTexture.h>
+	<base.h>
+
+1545552596 c:\users\user\desktop\gitupload\duckpower\include\lbutton.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+
+1545552596 c:\users\user\desktop\gitupload\duckpower\include\ltexture.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+
+1545552596 c:\users\user\desktop\gitupload\duckpower\include\base.h
+
+1545632073 c:\users\user\desktop\gitupload\duckpower\include\men_with_arms.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<LButton.h>
+	<LTexture.h>
+	<base.h>
+	<ctime>
+
+1545638795 c:\users\user\desktop\gitupload\duckpower\include\battle_scene.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string.h>
+	<cmath>
+	<windows.h>
+	"mmsystem.h"
+	<loop.h>
+	<LTexture.h>
+	<LButton.h>
+	<men_with_arms.h>
+	<base.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<ctime>
+
+1545552261 source:c:\users\user\desktop\gitupload\duckpower\src\base.cpp
+	"base.h"
+
+1545577314 source:c:\users\user\desktop\gitupload\duckpower\src\battle_scene.cpp
+	"BATTLE_SCENE.h"
+
+1545566067 source:c:\users\user\desktop\gitupload\duckpower\src\button.cpp
+	"BUTTON.h"
+
+1545567787 c:\users\user\desktop\gitupload\duckpower\include\button.h
+	<LTexture.h>
+	<LButton.h>
+
+1545552206 source:c:\users\user\desktop\gitupload\duckpower\src\lbutton.cpp
+	"LButton.h"
+
+1545552332 source:c:\users\user\desktop\gitupload\duckpower\src\loop.cpp
+	"loop.h"
+
+1545552596 source:c:\users\user\desktop\gitupload\duckpower\src\ltexture.cpp
+	"LTexture.h"
+
+1545575702 source:c:\users\user\desktop\gitupload\duckpower\src\men_with_arms.cpp
+	"men_with_arms.h"
+

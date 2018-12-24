@@ -132,8 +132,12 @@ int main( int argc, char* args[] )
 			int frame = 0;
 
             //initialization
-            DUCK_POWER.initialize_game(0);
+            DUCK_POWER.initialize_game(1);
 			//While application is running
+
+			PlaySound(TEXT("Britain_war.wav"),NULL,SND_FILENAME|SND_ASYNC|SND_LOOP);
+
+			//system("pause");
 			while( !quit )
 			{
 
@@ -145,6 +149,8 @@ int main( int argc, char* args[] )
 					{
 						quit = true;
 					}
+
+
                     DUCK_POWER.battle(e,quit);
                     //DUCK_POWER.test();
                 SDL_RenderPresent( gRenderer );
